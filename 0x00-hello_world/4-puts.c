@@ -1,7 +1,9 @@
 #include <stdio.h>
 /*
- * main is my entry point annd the return is 0
- * my program prints a sentence using the function puts instead of printf
+ * main - Entry point
+ *
+ * Description : Prints the sentence using puts
+ * Return : always 0 (success)
  */
 int main(void)/* main is the entry point */
 {
