@@ -1,11 +1,10 @@
 #include "main.h"
 #include <stdio.h>
-
 /**
- * reset_to_98 
+ * reset_to_98 - that's check the code mind blowing
  *
  *
- * pointer is n
+ * @n: is a pointer omg
  *
  */
 void reset_to_98(int *n)
