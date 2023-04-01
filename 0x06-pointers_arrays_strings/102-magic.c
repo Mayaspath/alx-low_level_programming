@@ -7,9 +7,7 @@ int *p;
 a[2] = 1024;
 p = &n;
 /*
-* main - Entry point
-*
-* Manal 01/04/2023
+* *(p + 6) = 98;
 */
 p[5] = 98;
 /* ...so that this prints 98\n */
