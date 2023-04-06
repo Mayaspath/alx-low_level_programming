@@ -4,7 +4,7 @@
  * @s: string
  * return : no return - Maya 06/04/2023
 */
-void _puts_recursion(char *s)
+void _puts_recursion(char *s) /* prints a string followed by a new line*/
 {
 	if (*s != '\0')
 	{
