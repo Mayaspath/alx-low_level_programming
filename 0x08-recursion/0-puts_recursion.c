@@ -1,10 +1,10 @@
 #include "main.h"
-/*
+/**
  * _puts_recursion - prints a string followed by a new line
  * @s: string
- * return : no return - Maya 06/04/2023
-*/
-void _puts_recursion(char *s) /* prints a string followed by a new line*/
+ * Return: no return - Maya 07/04/2023
+ */
+void _puts_recursion(char *s);
 {
 	if (*s != '\0')
 	{
