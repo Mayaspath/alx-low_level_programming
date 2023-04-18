@@ -1,7 +1,9 @@
 #ifndef _DOG_H_
 #define _DOG_H_
+
 /**
- * dog_t - Typedef for struct dog - Maya
+ * dog_t - Typedef for struct dog
+ * Maya 18/04/23
  */
 typedef struct dog dog_t;
 /**
@@ -10,8 +12,7 @@ typedef struct dog dog_t;
  * @age: age of the dog
  * @owner: owner of the dog
  *
- * Maya 18/04/23
- * Description: struct called "dog" stores name/age/owner
+ * Description: struct called "dog" name/age/owner
  */
 struct dog
 {
