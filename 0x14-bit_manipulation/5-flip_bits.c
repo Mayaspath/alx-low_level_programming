@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * flip_bits - returns number of bits needed to flip 
+ * flip_bits - returns number of bits needed to flip
  * to get from one number to another
  * Maya 03/05/23
  * @n: number one
